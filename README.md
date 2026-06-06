@@ -1,5 +1,5 @@
 
-** Guilty of trusting claude here, I didn't read the whole script, nor documentation because I didn't want to understand it that so I don't disable it, so read it before you run it obviously. **
+> ** Guilty of trusting claude here, I didn't read the whole script, nor documentation because I didn't want to understand it that so I don't disable it, so read it before you run it obviously. **
 
 # Social Block — Documentation
 
